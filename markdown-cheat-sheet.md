@@ -1,4 +1,5 @@
-# NOTE : CODE FOR ALL THIS IS PRESENT IN CODE
+# NOTE : CODE FOR ALL THIS IS PRESENT IN CODE FILE (https://github.com/ShuaibSiddiqui786/Markdown-Cheatsheet/blob/main/Code)
+as in a markdown file the .md code is interpreted already 🙃
 
 # Markdown Cheat Sheet
 

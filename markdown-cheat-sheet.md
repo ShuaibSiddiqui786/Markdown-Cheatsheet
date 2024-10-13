@@ -1,3 +1,5 @@
+# NOTE : CODE FOR ALL THIS IS PRESENT IN CODE
+
 # Markdown Cheat Sheet
 
 

@@ -1,6 +1,6 @@
 # NOTE : CODE FOR ALL THIS IS PRESENT IN 
 ---
-CODE FILE [here](Markdown-Cheatsheet/Code)
+CODE FILE [here](/Code)
 ---
 as in a markdown file the .md code is interpreted already 🙃
 

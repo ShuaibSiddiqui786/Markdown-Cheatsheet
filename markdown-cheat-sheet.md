@@ -2,7 +2,7 @@
 ---
 `CODE FILE` [here](/Code)
 ---
-as in a markdown file the .md code is interpreted already 🙃
+> As in a markdown file the .md code is interpreted already 🙃
 
 # Markdown Cheat Sheet
 

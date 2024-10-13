@@ -1,6 +1,6 @@
 # NOTE : CODE FOR ALL THIS IS PRESENT IN 
 ---
-CODE FILE (https://github.com/ShuaibSiddiqui786/Markdown-Cheatsheet/blob/main/Code)
+CODE FILE [here](/code)
 ---
 as in a markdown file the .md code is interpreted already 🙃
 

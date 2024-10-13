@@ -1,8 +1,8 @@
-# NOTE : CODE FOR ALL THIS IS PRESENT IN 
+# NOTE : CODE FOR ALL THIS IS PRESENT IN `CODE FILE`
 ---
-CODE FILE [here](/Code)
+`CODE FILE` [here](/Code)
 ---
-as in a markdown file the .md code is interpreted already 🙃
+> As in a markdown file the .md code is interpreted already 🙃
 
 # Markdown Cheat Sheet
 

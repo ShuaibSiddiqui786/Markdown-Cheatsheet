@@ -15,9 +15,9 @@ All Markdown applications support these elements.
 
 ### Heading
 
-# H1 #
-## H2 #
-### H3 #
+# H1 
+## H2 
+### H3 
 
 ### Bold
 
